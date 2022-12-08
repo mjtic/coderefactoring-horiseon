@@ -12,7 +12,7 @@ The source code now contains semantic HTML elements, follows a logical structure
 
 ## Usage
 - Github page (https://github.com/mjtic/module1-horiseon)
-- URL (will be added later)
+- URL (https://mjtic.github.io/module1-horiseon/)
 
 ![Horiseon-webpage](assets/images/horiseon-module1.JPG)
 
