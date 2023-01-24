@@ -11,8 +11,8 @@ The source code now contains semantic HTML elements, follows a logical structure
 - [License](#license)
 
 ## Usage
-- Github page (https://github.com/mjtic/module1-horiseon)
-- URL (https://mjtic.github.io/module1-horiseon/)
+- Github page (https://github.com/mjtic/coderefactoring-horiseon)
+- URL (https://mjtic.github.io/coderefactoring-horiseon/)
 
 ![Horiseon-webpage](assets/images/horiseon-module1.JPG)
 
